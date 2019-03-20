@@ -1,5 +1,5 @@
 # SpineBinaryConverter
-Takes old Spine skeleton binary files that are no longer supported by Spine and converts them to JSON so they can be read. Useful for old files that can no longer be accessed because of their old version.
+Old Spine binary formats are unreadable with the current Spine animation program, and no backwards compatible version exists to edit Spine binary files before version 3.5. To fix this problem, this program takes old Spine skeleton binary files and converts them to the JSON equivelent so they can be parsed. 
 
 ## Notices
 Currently, this repository uses spine-sharp version 3.4 from the [Spine runtimes](https://github.com/EsotericSoftware/spine-runtimes ) and therefore only parses version 3.4 binary files. It is possible to switch out the spine-sharp folder in this repository for a different version on the Spine-sharp github, but doing so will cause the program to fail to compile. More info in the Unfinished Work section under Version Swaping.
