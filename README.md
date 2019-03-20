@@ -10,4 +10,6 @@ Currently, this repository uses spine-sharp version 3.4 from the [Spine runtimes
   1. Color Support: color timelines are unparsed, so files that change color over time will be unable to do so.
   2. Event Support: files with interactable elements will not parse successfully and throw an error when trying to parse Events.
   3. Version Swaping: Small changes were made to the original spine-sharp project to make parsing binary files easier.  Currently the Deformation animations section has been changed to read pre-deformed vertices and offset.  
-
+  
+## Executables
+  Windows Executable [here](https://www.dropbox.com/s/i8cs9roqswy5r9a/SpineBinaryConverter.zip?dl=0)
