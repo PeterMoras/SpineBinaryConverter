@@ -12,4 +12,4 @@ Currently, this repository uses spine-sharp version 3.4 from the [Spine runtimes
   3. Version Swaping: Small changes were made to the original spine-sharp project to make parsing binary files easier.  Currently the Deformation animations section has been changed to read pre-deformed vertices and offset.  
   
 ## Executables
-  Windows Executable [here](https://www.dropbox.com/s/i8cs9roqswy5r9a/SpineBinaryConverter.zip?dl=0)
+  Windows Executable [here](https://github.com/PeterMoras/SpineBinaryConverter/releases/latest)
